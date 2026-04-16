@@ -1,4 +1,4 @@
-# Dissertation-Code
+# Dissertation Code
 # Dissertation Code: Poverty Rate Regression Analysis
 
 ## 📊 Full R Code
