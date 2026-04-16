@@ -198,7 +198,6 @@ summary(ngapovsummary_with_lag)
 transformed_summary <- descr(transformed_data)
 summary(transformed_summary)
 
-
 ```
 
 # Conclusion
